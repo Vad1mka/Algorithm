@@ -1,0 +1,6 @@
+Array 1 : 1 1 
+Array 2 : 3 6 
+
+C = A / B : 11
+
+C = (A/B) U (B/A) : 11
